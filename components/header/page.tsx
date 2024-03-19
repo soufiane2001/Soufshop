@@ -1,7 +1,7 @@
 import { FaShoppingCart } from 'react-icons/fa';
 const Header = () => {
     return (
-        <nav className="bg-gray-800 py-6 ">
+        <nav className="py-6 border-b-1 border-violet-900 shadow-md">
         <div className="container px-28 mx-auto flex justify-between items-center">
           <div>
             <a href="/" className="text-white text-lg font-semibold">Your Logo</a>
