@@ -9,6 +9,7 @@ export default function Home() {
     <Header/>
     <Categories/>
     <div className="container  mt-10  shadow-sm  py-7 mx-auto flex justify-around items-center flex-wrap">
+     
       <Card/>
       <Card/>
       <Card/>
